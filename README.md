@@ -27,7 +27,6 @@ Yapım notu #4: repo fabrikası.
 • çalıştırmadığımıza "denedim" yok
 • ses ve render tek sırada
 
-Notlar için yorumlara FABRİKA yaz, DM'den göndereyim 📩
 
 Siz paylaştığınız rakamları nereden kontrol ediyorsunuz?
 
